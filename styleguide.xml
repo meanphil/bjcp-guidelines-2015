@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <styleguide>
-  <class type="Beer">
+  <class type="beer">
     <category id="1">
       <revision number="1">2015</revision>
       <name>Standard American Beer</name>
@@ -4209,7 +4209,7 @@
       </subcategory>
     </category>
   </class>
-  <class type="Meads">
+  <class type="mead">
     <introduction>
       <revision number="1">2015</revision>
       <title>INTRODUCTION TO MEADS</title>
@@ -4642,7 +4642,7 @@
       </subcategory>
     </category>
   </class>
-  <class type="Ciders">
+  <class type="cider">
     <introduction>
       <revision number="1">2015</revision>
       <title>INTRODUCTION TO CIDER GUIDELINES</title>
