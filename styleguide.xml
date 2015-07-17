@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+BJCP Style Guidelines
+Release 2015 Edition 1
+
+Copyright 2015, BJCP, Inc.
+http://www.bjcp.org/stylecenter
+
+Revision 1: 17 July 2015 by Phil Murray <phil@brewaucracy.co.nz>
+
+-->
 <styleguide>
   <class type="beer">
     <category id="1">
